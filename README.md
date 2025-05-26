@@ -1,4 +1,4 @@
-# HR Analytics Project – Workforce Summary
+# HR Analytics Project – Workflow Summary
 
 ## Project Overview
 
